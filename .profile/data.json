@@ -1,8 +1,8 @@
 {
- "key": "ab682155",
+ "key": "ae3ff899",
  "stars": 0,
- "contributions": 8,
- "repos": 2,
+ "contributions": 5,
+ "repos": 1,
  "followers": 0,
  "languages": [],
  "days": [
@@ -65,7 +65,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 0,
     "day": 15,
     "today": false
    },
@@ -128,15 +128,6 @@
    "name": "devk1pp",
    "url": "https://github.com/devk1pp/devk1pp",
    "text": "My GitHub profile",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "PeroGram",
-   "url": "https://github.com/devk1pp/PeroGram",
-   "text": "",
    "fork": false,
    "stars": 0,
    "language": null,
