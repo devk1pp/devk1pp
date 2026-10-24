@@ -55,15 +55,7 @@
       },
       {
         "icon": "brand:telegram",
-        "label": "Bot creator"
-      },
-      {
-        "icon": "palette",
-        "label": "Into Material Design"
-      },
-      {
-        "icon": "language",
-        "label": "A little bit OSINT"
+        "label": "Bots creator"
       }
     ]
   },
