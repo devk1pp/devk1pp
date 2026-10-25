@@ -10,20 +10,16 @@
     "hero",
     "socials",
     "about",
+    "projects",
     "wave",
     "stats",
     "streak",
     "stack",
-    "projects",
     "buttons"
   ],
   "hidden": [
-    "stack",
-    "buttons",
-    "streak",
-    "projects",
     "stats",
-    "wave"
+    "streak"
   ],
   "hero": {
     "greeting": "Hi, I'm",
@@ -66,16 +62,16 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "dotnet"
           }
         ]
       },
@@ -91,8 +87,8 @@
             "label": "Figma"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:vscodium",
+            "label": "VsCode"
           }
         ]
       }
@@ -131,10 +127,6 @@
       {
         "icon": "brand:github",
         "url": "https://github.com/devk1pp"
-      },
-      {
-        "icon": "language",
-        "url": "https://devk1pp.space"
       }
     ],
     "variant": "chip",
@@ -145,8 +137,8 @@
     "items": [
       {
         "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
+        "label": "My Space",
+        "url": "https://devk1pp.space",
         "style": "filled"
       },
       {
@@ -155,6 +147,7 @@
         "url": "",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": true
   }
 }
