@@ -62,6 +62,10 @@
         "title": "Main",
         "items": [
           {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
             "icon": "brand:python",
             "label": "Python"
           },
