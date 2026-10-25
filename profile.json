@@ -131,6 +131,10 @@
       {
         "icon": "brand:github",
         "url": "https://github.com/devk1pp"
+      },
+      {
+        "icon": "language",
+        "url": "https://devk1pp.space"
       }
     ],
     "variant": "chip",
