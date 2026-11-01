@@ -1,19 +1,10 @@
 {
- "key": "cf51836",
+ "key": "e3ad25d7",
  "stars": 0,
- "contributions": 14,
- "repos": 2,
+ "contributions": 9,
+ "repos": 1,
  "followers": 1,
- "languages": [
-  [
-   "Python",
-   23478
-  ],
-  [
-   "Smarty",
-   92
-  ]
- ],
+ "languages": [],
  "days": [
   [
    {
@@ -47,7 +38,7 @@
     "today": false
    },
    {
-    "c": 10,
+    "c": 5,
     "day": 24,
     "today": false
    }
@@ -109,15 +100,6 @@
  },
  "pins": [],
  "all": [
-  {
-   "name": "oux",
-   "url": "https://github.com/devk1pp/oux",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Shell",
-   "topics": []
-  },
   {
    "name": "devk1pp",
    "url": "https://github.com/devk1pp/devk1pp",
