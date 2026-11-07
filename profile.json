@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "devk1pp",
-  "seed": "#F8F2F1",
+  "seed": "#684441",
   "seedFromAvatar": false,
   "scheme": "monochrome",
   "motion": true,
@@ -10,22 +10,23 @@
     "hero",
     "socials",
     "about",
+    "stack",
     "projects",
     "wave",
     "stats",
-    "streak",
-    "stack",
-    "buttons"
+    "buttons",
+    "streak"
   ],
   "hidden": [
-    "stats",
-    "streak"
+    "streak",
+    "about",
+    "stack"
   ],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "k1pp",
-    "subtitle": "",
-    "typing": false,
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
@@ -34,11 +35,7 @@
       },
       {
         "icon": "code",
-        "label": "Rust · Python"
-      },
-      {
-        "icon": "brand:archlinux",
-        "label": "Arch"
+        "label": "TypeScript · Python"
       }
     ]
   },
@@ -47,11 +44,11 @@
     "items": [
       {
         "icon": "person",
-        "label": "16 y.o Developer"
+        "label": "16 y.o developer"
       },
       {
-        "icon": "brand:telegram",
-        "label": "Bots creator"
+        "icon": "terminal",
+        "label": "nah"
       }
     ]
   },
@@ -62,20 +59,16 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:lua",
-            "label": "Lua"
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
           },
           {
             "icon": "brand:python",
             "label": "Python"
-          },
-          {
-            "icon": "brand:javascript",
-            "label": "JavaScript"
-          },
-          {
-            "icon": "brand:dotnet",
-            "label": "dotnet"
           }
         ]
       },
@@ -91,8 +84,8 @@
             "label": "Figma"
           },
           {
-            "icon": "brand:vscodium",
-            "label": "VsCode"
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
           }
         ]
       }
@@ -126,7 +119,11 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/selfoji"
+        "url": "https://t.me/devk1pp"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1458847599120351366"
       },
       {
         "icon": "brand:github",
@@ -134,14 +131,14 @@
       }
     ],
     "variant": "chip",
-    "fill": "brand",
+    "fill": "outlined",
     "card": true
   },
   "buttons": {
     "items": [
       {
         "icon": "language",
-        "label": "My Space",
+        "label": "My website",
         "url": "https://devk1pp.space",
         "style": "filled"
       },
@@ -151,7 +148,6 @@
         "url": "",
         "style": "tonal"
       }
-    ],
-    "card": true
+    ]
   }
 }
